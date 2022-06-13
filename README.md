@@ -43,6 +43,8 @@ As already mentioned in step 3 you can upload .save files to display damages fro
 
 Of course you can delete your edits at any time by just clicking on the red cross of the specific damage you want to remove.<br>
 
+This website was developed for tablets but can also be used on other devices like smartphones and Laptops.
+
 
 
 
