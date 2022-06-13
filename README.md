@@ -41,7 +41,7 @@ As already mentioned in step 4 you can upload .save files to display damages fro
 
 ![alt text](demo_pics/schadendelete.png)<br>
 
-Of course you can delete your edits again by just clicking on the red cross of the specific damage you want to remove.<br>
+Of course you can delete your edits at any time by just clicking on the red cross of the specific damage you want to remove.<br>
 
 
 
