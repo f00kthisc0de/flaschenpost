@@ -3,7 +3,7 @@
 <b> The Flaschenpost Bully Website / Protocol </b>
 
 This is a Website we've been working on for a couple of months now and it is still in development.</br>
-It's only purpose is making it easier for the drivers to hand over their cars.
+Its only purpose is to make the handing over of vehicles easier.<br>
 
 ![alt text](demo_pics/websiteinuse.png)
 
