@@ -35,7 +35,7 @@ Which brings us to the next feature:<br>
 
 ![alt text](demo_pics/upload.png)<br>
 
-As already mentioned in step 4 you can upload .save files to display damages from a second device.<br>
+As already mentioned in step 3 you can upload .save files to display damages from a second device.<br>
 
 <b>5. Deleting edits</b>
 
