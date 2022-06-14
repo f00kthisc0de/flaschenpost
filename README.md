@@ -1,4 +1,4 @@
-# Flaschenpost-Bulli Fahrzeug-Rückgabe
+# Flaschenpost-Bulli Fahrzeug-Rückgabe (Alpha)
 
 <b> The Flaschenpost Bully Website / Protocol </b>
 
